@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1649084222 source:c:\users\passe\documents\projetc++\monpremierprojet\main.cpp
+	<iostream>
+	"constant.h"
+	"jeu.h"
+
+1649084232 source:c:\users\passe\documents\projetc++\monpremierprojet\jeu.cpp
+	"jeu.h"
+	<iostream>
+
+1649084189 c:\users\passe\documents\projetc++\monpremierprojet\jeu.h
+
+1649083099 c:\users\passe\documents\projetc++\monpremierprojet\constant.h
+
